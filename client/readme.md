@@ -1,1 +1,1 @@
-# This is the client of Fargraph based RDMA
+# Client of Fargraph based RDMA
