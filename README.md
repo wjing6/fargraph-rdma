@@ -1,6 +1,6 @@
 # fargraph-rdma
 
-##Excavating the Potential of Graph Workload on RDMA-based Far Memory Architecture
+## Excavating the Potential of Graph Workload on RDMA-based Far Memory Architecture
 
 @inproceedings{wang2022excavating,
   title={Excavating the potential of graph workload on rdma-based far memory architecture},
